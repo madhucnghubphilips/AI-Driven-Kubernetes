@@ -13,128 +13,108 @@ size: 16:9
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI01_Agent_Goal_Hijack.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/02_ASI01_Agent_Goal_Hijack.png)
+![bg contain](../../resources/Introduction_Slide.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI02_Tool_Misuse_&_Exploitation.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/02_ASI02_Tool_Misuse_&_Exploitation.png)
-
----
+![bg contain](../../resources/Slide-1.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI03_Identity&Privilege_Abuse.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/02_ASI03_Identity&Privilege_Abuse.png)
+![bg contain](../../resources/Slide-2.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI04_Agentic_Supply_Chain_Vulnerabilities.png)
+![bg contain](../../resources/Slide-3.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI04_Agentic_Supply_Chain_Vulnerabilities.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/01_ASI05_Unexpected_Code_Execution.png)
+![bg contain](../../resources/Slide-4.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI05_Unexpected_Code_Execution.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/01_ASI06_Memory&Context_Poisoning.png)
-
----
+![bg contain](../../resources/Slide-5.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI06_Memory&Context_Poisoning.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/01_ASI07_Insecure_InterAgent_Communication.png)
+![bg contain](../../resources/Slide-6.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI07_Insecure_InterAgent_Communication.png)
+![bg contain](../../resources/Slide-1.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI08_Cascading_Failures.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/02_ASI08_Cascading_Failures.png)
+![bg contain](../../resources/Slide-7.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI07_Insecure_InterAgent_Communication.png)
+![bg contain](../../resources/Slide-8.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI09_HumanAgent_Trust_Exploitation.png)
-
----
-
----
-
-<!-- _class: image -->
-![bg contain](../../resources/02_ASI09_HumanAgent_Trust_Exploitation.png)
+![bg contain](../../resources/Slide-1.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/01_ASI10_Rogue_Agents.png)
-
----
+![bg contain](../../resources/Slide-9.png)
 
 ---
 
 <!-- _class: image -->
-![bg contain](../../resources/02_ASI10_Rogue_Agents.png)
+![bg contain](../../resources/Slide-10.png)
 
 ---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-1.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-11.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-12.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-13.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-14.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-15.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-16.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../resources/Slide-17.png)
+
+---
+
+
