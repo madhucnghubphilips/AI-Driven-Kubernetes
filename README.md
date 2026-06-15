@@ -108,3 +108,9 @@ Leverage AI to identify Kubernetes security risks early in the development lifec
   <img src="resources/Slide-16.png" width="100%" />
 </p>
 
+---
+
+<p align="center">
+  <img src="resources/Slide-17.png" width="100%" />
+</p>
+
