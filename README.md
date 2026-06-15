@@ -1,7 +1,13 @@
 # AI-Driven-Kubernetes
 Leverage AI to identify Kubernetes security risks early in the development lifecycle, enabling faster, scalable, and proactive security testing.
 
+---
+---
+<p align="center">
+  <img src="resources/Introduction_Slide.png" width="100%" />
+</p>
 
+---
 <p align="center">
   <img src="resources/Slide-1.png" width="100%" />
 </p>
